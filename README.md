@@ -1,4 +1,4 @@
-#  JAVA Windows Simple CRUD Application
+#  JAVA Windows Simple CRUD Application(Screenshots)
 1) Add Student information And load to tabledata :
 
 ![new1add](https://user-images.githubusercontent.com/68272031/155835572-b9a79fc1-3ac5-41cd-ba31-7f2521e8b788.PNG)
